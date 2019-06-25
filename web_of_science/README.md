@@ -20,6 +20,6 @@
 
 ## UM users
 - If you are affiliated with the University of Michigan, you have access to all the same tools and data that I am using.
-- Reach out to the library to get access wo thr WoS data
+- Reach out to the library to get access to the WoS data
 - Reach out to hpc-support@umich.edu to get set up using the cavium thunderx hadoop cluster (where I run pyspark and generated these examples).
 
