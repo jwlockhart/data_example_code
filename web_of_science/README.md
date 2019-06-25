@@ -2,6 +2,9 @@
 
 ## Data
 - Data come from the University of Michigan's copy of the [Web of Science](https://www.webofknowledge.com/). Rather than using the API, our library has purchased access to a dump of the data.
+- I also merge in two public data sources:
+	- The Library of Congress `books_all` database: https://www.loc.gov/cds/products/MDSConnect-books_all.html
+	- The SJR Journal Rank data: https://www.scimagojr.com/journalrank.php
 
 ## Tools
 - The notebooks in this directory heavily rely on PySpark for data processing. You'll need a cluster with the appropriate software to run this code.
