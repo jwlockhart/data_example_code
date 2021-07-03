@@ -8,5 +8,5 @@ Methodology for the rankings:
 Disclaimers: 
 - Rankings are dubious measures of quality and they get used in unethical ways. They can be useful for studying prestiege and inequality tho, e.g. some folks have shown they correlate strongly with faculty hiring.
 - I don't own this data. QS makes it free & public. I just offer this to help people put it in a nice format for statistical use. 
-    - If you represent QS and you want this taken down, just send me an email.
+    - If you represent QS and you want this taken down, just send me an email. (jwlock [at] umich [dot] edu)
 - They might change their website and break this code. No promises I'll update the code if that happens. 
